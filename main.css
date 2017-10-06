@@ -1,0 +1,59 @@
+/* alinear los elementos (etiquetas) de la página
+text-align sirve para alinear tanto los textos como las imagenes*/
+body{
+	text-align: center;
+}
+
+.cuadrado-color{
+	/*background-color: orange; color en ingles
+	background-color: #FFBF00; color hexadecimales*/
+	background-color: rgb(238, 97, 193);
+	padding-bottom: 20px;
+
+}
+.imagen-pequeña{
+	width:20%;
+}
+
+p{
+	font-family: 'BenchNine', sans-serif;
+	color: #999697
+
+}
+/* cambiar tipografía*/
+h1{
+	font-family: 'Amatic SC', cursive;
+	color: #F8F53D 
+}
+h3{
+	font-family: 'Amatic SC', cursive;
+	color: #2C2C2C
+}
+.informacion{
+	background-color: #F3F8F3
+
+}
+h4{
+	font-family: 'Amatic SC', cursive;
+	color: #2C2C2C
+}
+.portada{
+	width: 100%;
+}
+
+
+
+/*hacer el separador*/
+.enlaces{
+	border-top: 1px dashed #EE61C1;
+	/*buscar types border css*/
+	background-color: #CDF2FC
+}
+h5{
+	font-family: 'Amatic SC', cursive;
+	color: #2C2C2C
+}
+h6{
+	font-family: 'BenchNine', sans-serif;
+	color: #999697
+}
